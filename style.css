@@ -42,7 +42,7 @@ body{
     font-size: 4rem;
     font-weight: 300;
     text-transform: uppercase;
-    color: white;
+
 }
 
 .svg-img{
@@ -147,6 +147,7 @@ svg{
         font-size: 3rem;
         font-weight: 300;
         text-transform: uppercase;
+        color: white;
     }
     
      
